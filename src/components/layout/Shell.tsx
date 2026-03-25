@@ -1,0 +1,1 @@
+export { DashboardLayout as Shell } from './DashboardLayout';

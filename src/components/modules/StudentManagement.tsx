@@ -1,0 +1,1 @@
+export { StudentManagement } from '../Modules/StudentManagement';

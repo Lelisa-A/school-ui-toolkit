@@ -1,0 +1,1 @@
+export { AssetDashboard as AssetManagement } from '../AssetDashboard';
